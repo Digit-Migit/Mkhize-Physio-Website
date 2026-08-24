@@ -128,6 +128,7 @@ export function Contact() {
           <option>Home Visit (Bed/Wheelchair bound)</option>
           <option>Sports Injury Rehab</option>
           <option>Post-Operative Rehab</option>
+          <option>Hydrotherapy</option>
           <option>Other / General Consultation</option>
         </select>
       </div>

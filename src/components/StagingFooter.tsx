@@ -77,6 +77,10 @@ export function StagingFooter() {
                   <p className="font-bold text-white mb-2">Hammarsdale</p>
                   <p>6 Sibisi Road, 3700</p>
                 </div>
+                <div>
+                  <p className="font-bold text-white mb-2">Virgin Active (Hydrotherapy)</p>
+                  <p>157 Victoria Road, 3201</p>
+                </div>
                 <div className="pt-6">
                   <p className="font-bold text-white mb-3">Save Our Details</p>
                   <div className="bg-white p-2 rounded-lg inline-block">

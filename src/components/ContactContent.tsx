@@ -17,6 +17,12 @@ export function ContactContent() {
       address: "191 Boshoff Street, Pietermaritzburg, 3201",
       description: "Inside Boshoff Primary Health Clinic",
       hours: "07:30 - 16:30"
+    },
+    {
+      title: "Virgin Active (Hydrotherapy)",
+      address: "Virgin Active, 157 Victoria Road, Pietermaritzburg, 3201",
+      description: "Hydrotherapy sessions at the Virgin Active pool",
+      hours: "By appointment"
     }
   ];
 

@@ -91,6 +91,17 @@ export function Footer() {
                       6 Sibisi Road, 3700
                     </a>
                   </div>
+                  <div>
+                    <p className="font-bold text-white mb-2">Virgin Active (Hydrotherapy)</p>
+                    <a
+                      href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent("Virgin Active, 157 Victoria Road, Pietermaritzburg, 3201")}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="hover:text-brand-accent transition-colors block"
+                    >
+                      157 Victoria Road, 3201
+                    </a>
+                  </div>
                   <div className="pt-4 space-y-2">
                     <p className="font-bold text-white">Contact</p>
                     <a href="tel:+27640012097" className="hover:text-brand-accent transition-colors block">064 001 2097</a>

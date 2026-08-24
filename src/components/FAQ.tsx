@@ -14,6 +14,10 @@ const faqs = [
     answer: "Please bring your ID document, medical aid card (if applicable), any referral letters from your doctor, recent X-rays or scans related to your condition, and a list of current medications. Wear comfortable, loose-fitting clothing that allows access to the affected area."
   },
   {
+    question: "What should I bring to a hydrotherapy session?",
+    answer: "For hydrotherapy sessions at our Virgin Active location, please bring a swimming costume, a towel, and non-slip sandals or flip-flops for the poolside. We also recommend a change of dry clothing and a bottle of water to stay hydrated. A swimming cap is optional. Please avoid applying body lotions or oils before your session, and bring any mobility aids or glasses you normally use."
+  },
+  {
     question: "Do you accept medical aid?",
     answer: "Yes, we are registered with most major medical aids in South Africa. We can submit claims directly to your medical aid on your behalf. Please bring your medical aid card to your appointment. For patients without medical aid, we offer competitive private rates."
   },
