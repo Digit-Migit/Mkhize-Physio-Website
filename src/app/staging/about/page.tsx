@@ -1,12 +1,12 @@
 import { StagingNavbar } from "@/components/StagingNavbar";
 import { StagingFooter } from "@/components/StagingFooter";
-import { HomeContent } from "@/components/HomeContent";
+import { AboutContent } from "@/components/AboutContent";
 
-export default function HomePage() {
+export default function AboutPage() {
   return (
     <main className="min-h-screen bg-white">
-      <StagingNavbar />
-      <HomeContent />
+      <StagingNavbar variant="dark" />
+      <AboutContent />
       <StagingFooter />
     </main>
   );

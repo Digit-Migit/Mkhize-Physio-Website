@@ -1,12 +1,12 @@
 import { StagingNavbar } from "@/components/StagingNavbar";
 import { StagingFooter } from "@/components/StagingFooter";
-import { HomeContent } from "@/components/HomeContent";
+import { ContactContent } from "@/components/ContactContent";
 
-export default function HomePage() {
+export default function ContactPage() {
   return (
     <main className="min-h-screen bg-white">
       <StagingNavbar />
-      <HomeContent />
+      <ContactContent />
       <StagingFooter />
     </main>
   );
